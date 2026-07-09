@@ -327,8 +327,8 @@ async function miAgenda(){
             default:
                 console.log("¡Opción incorrecta!")
         }
-        rl.close();
     }
+    rl.close();
 }
 
 miAgenda()
